@@ -116,3 +116,5 @@ print (word,wordcount)
 file.close();
 
 ##-------------------------------------------------------------------
+
+# Checking the commit to github after adding this text
